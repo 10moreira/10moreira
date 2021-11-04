@@ -1,4 +1,4 @@
-## Oi! Me chamo Mateus! 🧉 🇧🇷
+## Oi! Me chamo Mateus! 🧉
 <div align="center">
   <a href="https://github.com/10moreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=10moreira&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
